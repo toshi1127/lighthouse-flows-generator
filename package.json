@@ -7,6 +7,10 @@
   "description": "",
   "main": "./dist/cli.js",
   "types": "./dist/cli.d.ts",
+  "files": [
+    "dist",
+    "bin"
+  ],
   "scripts": {
     "build": "tsc"
   },
