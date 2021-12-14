@@ -3,7 +3,7 @@
     "lighthouse-flows-generator": "./bin/cli.js"
   },
   "name": "lighthouse-flows-generator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "./dist/cli.js",
   "types": "./dist/cli.d.ts",
