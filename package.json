@@ -1,0 +1,27 @@
+{
+  "bin": {
+    "lighthouse-flows-generator": "./build/cli.js"
+  },
+  "name": "lighthouse-flows-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/cli.js",
+  "types": "./build/cli.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.12",
+    "pkg": "^5.5.1",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "@types/yargs": "^17.0.7",
+    "lighthouse": "^9.1.0",
+    "yargs": "^17.3.0"
+  }
+}
