@@ -1,14 +1,13 @@
 {
   "bin": {
-    "lighthouse-flows-generator": "./build/cli.js"
+    "lighthouse-flows-generator": "./bin/cli.js"
   },
   "name": "lighthouse-flows-generator",
   "version": "1.0.0",
   "description": "",
-  "main": "./build/cli.js",
-  "types": "./build/cli.d.ts",
+  "main": "./dist/cli.js",
+  "types": "./dist/cli.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
   "keywords": [],
