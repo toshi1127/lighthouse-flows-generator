@@ -3,14 +3,10 @@
     "lighthouse-flows-generator": "./bin/cli.js"
   },
   "name": "lighthouse-flows-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./dist/cli.js",
   "types": "./dist/cli.d.ts",
-  "files": [
-    "dist",
-    "bin"
-  ],
   "scripts": {
     "build": "tsc"
   },
