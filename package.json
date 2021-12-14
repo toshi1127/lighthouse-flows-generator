@@ -21,6 +21,7 @@
   "dependencies": {
     "@types/yargs": "^17.0.7",
     "lighthouse": "^9.1.0",
+    "puppeteer": "^13.0.0",
     "yargs": "^17.3.0"
   }
 }
