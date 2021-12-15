@@ -2,6 +2,8 @@
 
 This CLI tool allows you to merge Lighthouse measurements and view them in the Lighthouse user flows view.
 
+![image](https://user-images.githubusercontent.com/32378535/146111296-a3cf6d2b-d3ae-4e4a-8615-05dd023689c2.png)
+
 
 ### Installing
 ```
