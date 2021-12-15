@@ -12,7 +12,7 @@ $ npm install -g lighthouse-flows-generator
 
 ### How to use
 ```
-$ lighthouse-flows-generator generate --urls "https://web.dev/" --files "https://web.dev/blog/"  --files "https://web.dev/compat2021-holiday-update/"
+$ lighthouse-flows-generator generate --urls "https://web.dev/" --urls "https://web.dev/blog/"  --urls "https://web.dev/compat2021-holiday-update/"
 
 or
 
